@@ -1,320 +1,102 @@
-# <div align="center">
-
 # 👋 Hi, I'm **Rarestardev**
 
 ### 🚀 Senior Android Developer | Kotlin • Java • Jetpack Compose
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=800&lines=Android+Developer;Jetpack+Compose+Enthusiast;Android+TV+Developer;Media+Streaming+Expert;Clean+Architecture+Lover;Open+Source+Contributor;Building+Amazing+Android+Experiences" />
-
-<img src="https://komarev.com/ghpvc/?username=Rarestardev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&lines=Android+Developer;Jetpack+Compose+Developer;Android+TV+Developer;Media+%26+Streaming+Expert;Clean+Architecture+Enthusiast;Open+Source+Developer" />
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a passionate **Android Developer** with extensive experience building modern, scalable, and high-performance Android applications.
+I'm a **Senior Android Developer** focused on building modern, scalable, and high-performance applications.
 
-I enjoy solving challenging engineering problems, creating elegant user experiences, and developing reusable libraries that help other developers.
+My main areas of expertise are:
 
-My primary focus is on **Jetpack Compose**, **Android TV**, **Media Streaming**, **Clean Architecture**, and **Performance Optimization**.
+* 📱 Android & Jetpack Compose
+* 📺 Android TV
+* 🎬 Media3 / ExoPlayer & Video Streaming
+* 🏗 Clean Architecture & Modular Design
+* ⚡ Performance & Concurrency
+* 📦 Android Libraries & Open Source
 
-Currently I'm building advanced Android libraries and media platforms while contributing to open-source projects.
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Programming Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart)
+I enjoy solving complex engineering problems and building reusable solutions for developers.
 
 ---
 
-## 🎨 UI Development
+## 🛠 Tech Stack
 
-* Jetpack Compose
-* Material Design 3
-* XML
-* Compose Navigation
-* Android View System
-* Custom Views
-* TV Compose
-* Leanback
+**Languages**
 
----
+Kotlin • Java • Dart
 
-## 🏛 Architecture
+**Android**
 
-* Clean Architecture
-* MVVM
-* MVI
-* MVC
-* SOLID Principles
-* Design Patterns
-* Modular Architecture
-* Clean Code
+Jetpack Compose • Material 3 • Android TV • Media3 • ExoPlayer • XML • Navigation
 
----
+**Architecture**
 
-## 💉 Dependency Injection
+Clean Architecture • MVVM • MVI • SOLID • Design Patterns • Modular Architecture
 
-* Hilt
-* Dagger
-* Koin
+**Backend & Networking**
 
----
+Retrofit • OkHttp • Ktor • REST API • WebSocket • Firebase • Supabase
 
-## 🌐 Networking
+**Database & Storage**
 
-* Retrofit
-* OkHttp
-* Ktor
-* Volley
-* REST APIs
-* WebSocket
-* Socket Programming
+Room • SQLite • DataStore • SharedPreferences • Encryption
+
+**Concurrency**
+
+Coroutines • Flow • RxJava • WorkManager • Background Services
+
+**Media**
+
+ExoPlayer • HLS • M3U8 • VOD • Adaptive Streaming • Multi Audio • Multi Subtitle
+
+**Tools**
+
+Android Studio • IntelliJ IDEA • Git • GitHub • GitLab • Postman
 
 ---
 
-## 🗄 Database & Storage
+## 🔥 Areas of Expertise
 
-* Room
-* SQLite
-* DataStore
-* SharedPreferences
-* Encrypted SharedPreferences
-* AES Encryption
-
----
-
-## ⚡ Concurrency
-
-* Kotlin Coroutines
-* Kotlin Flow
-* RxJava
-* RxAndroid
-* WorkManager
-* Foreground Services
-* Background Services
-* Broadcast Receivers
-
----
-
-## 🎬 Media Technologies
-
-* Media3 ExoPlayer
-* HLS
-* M3U8
-* Adaptive Streaming
-* Video On Demand (VOD)
-* Multi Audio
-* Multi Subtitle
-* Quality Manager
-* Audio Track Manager
-
----
-
-## 🖼 Image Loading
-
-* Coil
-* Glide
-* Picasso
-
----
-
-## ☁ Backend Services
-
-### Firebase
-
-* Authentication
-* Realtime Database
-* Push Notification
-* Analytics
-* Ads
-
-### Supabase
-
-* Authentication
-* Realtime Database
-* Storage
-* REST API
-
----
-
-## 📊 Analytics & Debugging
-
-* Firebase Analytics
-* Microsoft Clarity
-* LeakCanary
-* Android Studio Profiler
-
----
-
-## 🤖 AI Assisted Development
-
-* ChatGPT
-* Claude
-* GitHub Copilot
-* DeepSeek
-
----
-
-## 🛠 Development Tools
-
-* Android Studio
-* IntelliJ IDEA
-* VS Code
-* Git
-* GitHub
-* GitLab
-* Postman
-* Bruno
-
----
-
-## 📱 Platforms
-
-✅ Android Mobile
-
-✅ Android Tablet
-
-✅ Android TV
-
-✅ Wear OS
-
-✅ Android XR
-
-✅ Android Auto
-
-✅ Windows (Java)
-
----
-
-## 💰 Monetization
-
-* Google AdMob
-* Start.io
-* Tapsell
-* Yektanet
-
----
-
-## 🛒 Publishing
-
-* Google Play
-* Cafe Bazaar
-* Myket
-* In-App Purchases
-
----
-
-# 🔥 Areas of Expertise
-
-* Android App Development
-* Android TV
-* Media Streaming
-* Video Player Development
-* ExoPlayer
-* Download Manager
+* Android Application Development
+* Android TV Applications
+* Video Player & Streaming
+* Download Managers
 * Performance Optimization
-* Multi-threading
-* REST APIs
-* Offline First Apps
+* Offline-First Applications
 * Secure Applications
-* Open Source Libraries
 * Custom Compose Components
-* Material Design
-* Adaptive UI
-* Large Scale Android Projects
+* Scalable Android Architecture
+* Open Source Libraries
 
 ---
 
-# 📚 Coding Philosophy
+## 📦 Open Source
 
-✔ Clean Code
+I build and maintain reusable Android libraries focused on:
 
-✔ SOLID Principles
-
-✔ Reusable Components
-
-✔ Scalable Architecture
-
-✔ Maintainable Code
-
-✔ Performance First
-
-✔ Code Review
-
-✔ Documentation
-
-✔ Refactoring
+📥 Download Engines
+📺 Android TV Components
+🎬 Media & Streaming
+🎨 Compose UI Components
+⚡ Performance & Networking
 
 ---
 
-# 🚀 Open Source
+## 🎯 Current Focus
 
-I enjoy building reusable Android libraries that simplify development and improve performance.
-
-Current interests:
-
-* 📦 Android Libraries
-* 📥 Download Manager
-* 📺 Android TV Components
-* 🎬 Media Streaming
-* 🎵 Audio Frameworks
-* ⚡ Compose UI Components
+**Jetpack Compose • Android TV • Media3 • Streaming • Performance • Open Source • Modular Architecture**
 
 ---
 
-# 🎯 Current Focus
-
-* Jetpack Compose
-* Android TV
-* Media3
-* Performance Optimization
-* Open Source
-* Modular Apps
-* Download Engine
-* Advanced Streaming
-* Clean Architecture
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rarestardev&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rarestardev&theme=react-dark"/>
-
-</p>
-
----
-
-# 🌎 Connect With Me
+## 🌎 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Rarestardev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/Rarestardev)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/Rarestardev)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram)](https://t.me/Rarestardev)
-
----
-
-# ⚡ Fun Fact
-
-> "I believe great Android apps are built through clean architecture, performance optimization, and attention to every detail."
 
 ---
 
@@ -322,6 +104,6 @@ Current interests:
 
 ### ⭐ Thanks for visiting my profile!
 
-**If you like my projects, don't forget to leave a ⭐**
+**Building clean, scalable and high-performance Android experiences.**
 
 </div>
